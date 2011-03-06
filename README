@@ -1,0 +1,33 @@
+------------------------------------------------------
+jvCard 0.9
+
+Author: Thilo Brandt (mail@thilo-brandt.de)
+------------------------------------------------------
+
+A vCard 3.0 java library for parsing and creating of vCards
+
+This github repository contains the source files and build infrastructure of jvCard 0.9. 
+
+-----
+Required Software for building/compiling jvCard 0.9:
+
+Java JDK 1.5+ (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+Apache Ant 1.8+ (http://ant.apache.org/bindownload.cgi) 
+
+-----
+Build process:
+
+There is a default target "distribute" defined in the central build.xml file, which publishes this jvCard library as JAR file to the ./dist/<date>/lib/ directory
+
+Recommended target commands:
+
+bash>ant
+
+or
+
+bash>ant distribute
+
+For JavaDoc generation use 
+
+bash>ant javadoc
