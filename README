@@ -26,8 +26,21 @@ bash>ant
 
 or
 
-bash>ant distribute
+bash> ant distribute
 
 For JavaDoc generation use 
 
-bash>ant javadoc
+bash> ant javadoc
+
+-----
+Run an parsing example:
+
+bash> cd dist/20110306/libs/
+bash> java -cp jvcard-0.9.0.jar de.jvcard.sample.ParsevCard ../../../test-vcard.vcf
+
+Run an output example:
+
+bash> cd dist/20110306/libs/
+bash> java -cp jvcard-0.9.0.jar de.jvcard.sample.ParsevCard2 ../../../test-vcard.vcf
+
+
