@@ -1,0 +1,57 @@
+<project name="jvCard" default="distribute" basedir=".">
+
+  <!-- set global properties for this build -->  
+  <property name="debugger" value="on"/>
+  <property name="jvc.bc.src.api" value="src"/>
+
+  <target name="init">
+     <!-- Create the time stamp -->
+     <tstamp/>
+     <property name="jvc.build.dir" value="build/${DSTAMP}"/>
+     <property name="jvc.dist.dir" value="dist/${DSTAMP}"/>
+     <property name="jvc.dist.libs.dir" value="${jvc.dist.dir}/libs"/>
+     <property name="jvc.classes.dir" value="${jvc.build.dir}/classes"/>
+
+     <!-- Create the build directory structure used by compile -->
+     <mkdir dir="${jvc.build.dir}"/>
+     <mkdir dir="${jvc.dist.dir}"/>
+     <mkdir dir="${jvc.dist.libs.dir}"/>
+     <mkdir dir="${jvc.classes.dir}"/>
+  </target>
+
+  <target name="compile" depends="init" description="compile the source" >
+    <!-- Compile the java code from ${src} into ${build} -->
+
+    <javac srcdir="${jvc.bc.src.api}" destdir="${jvc.classes.dir}" debug="${debugger}" optimize="on">
+    <classpath>
+      <pathelement path="${classpath}"/>
+      <pathelement path="${java.class.path}/"/>
+    </classpath>
+    </javac>
+  </target>
+
+  <target name="distribute" depends="compile"
+        description="generate the core distribution" >
+
+    <jar jarfile="${jvc.dist.libs.dir}/jvcard-0.9.0.src.jar" basedir="${jvc.bc.src.api}"/>
+
+    <jar jarfile="${jvc.dist.libs.dir}/jvcard-0.9.0.jar" basedir="${jvc.classes.dir}">
+	<manifest> 
+	<attribute name="Class-Path" value="jvcard-0.9.0.jar"/>
+	<attribute name="Main-Class" value="de.jvcard.sample.CreatevCard"/>
+	</manifest> 
+    </jar>
+  </target>
+  
+  <target name="javadoc" description="publish javadoc">
+        <javadoc overview="${jvc.bc.src.api}/overview.html" packagenames="de.jvcard.*" sourcepath="${jvc.bc.src.api}/" defaultexcludes="yes" destdir="./javadoc" author="true" version="true" use="true" windowtitle="jvCard 0.9"> 
+            <doctitle><![CDATA[<h1>jvCard 0.9</h1>]]></doctitle>
+            <bottom><![CDATA[<i>Copyright &#169; 2011 by Thilo Brandt. All Rights Reserved.</i>]]></bottom> 
+
+            <link offline="false" href="http://java.sun.com/javase/6/docs/api/" packagelistLoc="/tmp"/> 
+        </javadoc>
+
+  </target>
+    
+</project>
+

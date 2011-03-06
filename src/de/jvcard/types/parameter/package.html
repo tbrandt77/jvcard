@@ -1,0 +1,17 @@
+<html>
+<head>
+
+<title>jvCard package de.jvcard.elements.parameter.*</title>
+</head>
+<body>
+This package supports creating an manipulating of vCard elements' parameters. It follows the IETF specification as defined in <a href="http://www.ietf.org/rfc/rfc2426.txt" target="_blank">http://www.ietf.org/rfc/rfc2426.txt</a>
+<br/><br/>
+<code>
+IType e = ...; // get element from vCard object<br/>
+IParameter p = e.getParameter(IParameter.PARAMETER_NAME_TYPE);<br/>
+if (p!=null) {<br/>
+	System.out.println(p.getValue());<br/>
+}</code>
+<br/><br/>
+
+</body> </html>

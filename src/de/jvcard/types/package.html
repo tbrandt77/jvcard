@@ -1,0 +1,20 @@
+<html>
+<head>
+
+<title>jvCard package de.jvcard.elements.*</title>
+</head>
+<body>
+This package supports creating an manipulating of vCard types. It follows the IETF specification as defined in <a href="http://www.ietf.org/rfc/rfc2426.txt" target="_blank">http://www.ietf.org/rfc/rfc2426.txt</a>
+<br/><br/>
+<code>
+InputStream is = ...; // get a vCard as InputStream e.g. from a file<br/>
+List<vCard> myvcards = vCard.parsevCard(is);<br/>
+IType e = null;<br/>
+for (vCard vc : myvcards){<br/>
+	e = vc.getType(IType.FN);<br/>
+	if (e!=null) <br/>
+		System.out.println(e.getValue());<br/>
+}</code>
+<br/><br/>
+
+</body> </html>

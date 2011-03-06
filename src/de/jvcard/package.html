@@ -1,0 +1,24 @@
+<html>
+<head>
+
+<title>jvCard package de.jvcard.*</title>
+</head>
+<body>
+This package is the starting point for your application to use the jvCard framework. Create a new instance of vCard to start from scratch.
+<br/><br/><code>
+vCard vc = new vCard();<br/>
+vc.addType(new VERSION30());<br/>
+vc.addType(new N("Brandt", "Thilo"));<br/>
+System.out.println(vc.toString());<br/><br/>
+</code>
+<br/>
+Starting with an InputStream you should use the static method<br/><br/>
+<code>
+InputStream is = ...; // get a vCard as InputStream e.g. from a file<br/>
+List<vCard> myvcards = vCard.parsevCard(is);<br/>
+for (vCard vc : myvcards)<br/>
+System.out.println(vc.toString());<br/>
+</code>
+<br/><br/>
+
+</body> </html>
