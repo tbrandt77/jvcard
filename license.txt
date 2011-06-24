@@ -1,0 +1,101 @@
+jVcard
+Copyright (C) 1999 - 2011 Thilo Brandt
+
+
+SOFTWARE LIZENZVERTRAG *FREEWARE* (English version below)
+
+SIE MÜSSEN DIESEM VERTRAG ZUSTIMMEN BEVOR SIE DIE SOFTWARE BENUTZEN!
+
+1. ALLGEMEINES
+
+Dieser Software Lizenzvertrag (nachfolgend "Vertrag" genannt) ist ein bindender Vertrag zwischen Ihnen, dem Endbenutzer (entweder natürliche oder juristische Person) und Thilo Brandt (nachstehend "Hersteller" genannt). Das Urheberrecht dieser Software (nachfolgend "die Software" genannt) und seine dazugehörigen Dokumente (einschließlich aller im Softwarepaket enthaltenen Dateien, Bilder, enthaltener Texte der Software) sowie alles begleitende schriftliche Material gehören dem Hersteller, ansässig in Kelterwiesen 31, 74889 Sinsheim, Deutschland, und sind durch nationale und internationale Rechtsvorschriften geschützt.
+
+Durch Installation, kopieren, herunterladen oder anderweitige Nutzung der Software erklären Sie sich dem Hersteller gegenüber einverstanden, an die Bedingungen und Konditionen dieses Vertrages gebunden zu sein, welcher Ihre Benutzung der Software regelt. Wenn Sie mit dem Vertrag nicht einverstanden sind, dürfen Sie die Software nicht installieren. 
+
+Der Nutzer sollte die folgenden Bedingungen und Konditionen sorgfältig durchlesen:
+
+2. LIZENZ
+
+Thilo Brandt gewährt, und der Kunde akzeptiert, eine nicht übertragbare und nicht exklusive Lizenz, die Software nach den folgenden Bedingungen und Konditionen zu nutzen:
+
+Sie dürfen die Software weitergeben.
+
+Sie dürfen beliebig viele Kopien der Software erstellen. 
+
+Was Sie nicht dürfen:
+
+a) Die Software ohne schriftliche Genehmigung auf kostenpflichtige Datenträger oder auf Webseiten mit kostenpflichtigem Inhalt stellen. Wir bitten im allgemeinem um die Einholung einer Erlaubnis bei der Bereitstellung der Software auf öffentlichen Internetseiten oder Datenträgern.
+
+b) Die Software vermieten, verleasen, weiterlizenzieren, modifizieren, verändern, adaptieren/portieren, zusammenführen, übersetzen, Reverse Engineering betreiben, dekompilieren oder in ein anderes Produkt mit aufnehmen sowie disassemblieren, um ähnliche Software herzustellen. Das gilt sowohl für die ganze Software als auch für alle einzelnen Teile der Software und ihrer zugehörigen Dokumentation.
+
+3. BEDINGUNGEN
+
+Diese Lizenzvereinbarung ist solange gültig, bis sie durch Vernichtung der Software und der dazugehörigen Dokumentation und aller Kopien beendet wird. Diese Lizenz wird ohne Benachrichtigung durch den Hersteller mit sofortiger Wirkung beendet, wenn Sie den Bedingungen und Voraussetzungen dieser Lizenz nicht vollständig Folge leisten. Bei Nichteinhaltung einer dieser Bedingungen müssen Sie die Software und alle zugehörigen schriftlichen Materialien sowie sämtliche Kopien hiervon vernichten.
+
+4. EIGENTUMSVORBEHALT
+
+Die Software ist nur für Sie lizenziert, sie gehört Ihnen aber nicht. Der Hersteller behält sich sein Eigentumsrecht vor, auch auf alle folgenden Kopien davon, ungeachtet der Form oder des Mediums. Der Hersteller behält die Rechte am Titel, alle geschützten Rechte an der Software, inklusive, aber nicht limitiert, an allen Patenten, Urheberrechten, Geschäftsgeheimnissen, Markennamen, Handelsmarken und registrierten Handelsmarken.
+
+5. GEWÄHRLEISTUNG
+
+DER HERSTELLER GARANTIERT NICHT, DASS DIE SOFTWARE FREI VON FEHLERN UND AUSLASSUNG IST, DASS SIE OHNE UNTERBRECHUNG ARBEITET, DASS DIE SOFTWARE IHREN ANSPRÜCHEN ENTSPRICHT, DASS DIE ARBEIT MIT DER  SOFTWARE UNUNTERBROCHEN ODER FEHLERFREI IST, DASS FEHLER IN DER SOFTWARE BEHOBEN WERDEN, ODER DASS NEUE VERSIONEN UND/ODER UPGRADES DER SOFTWARE ZUR VERFÜGUNG GESTELLT WERDEN. DIE SOFTWARE, JEDE INFORMATION, CODES, UND/ODER AUSFÜHRBARE DATEIEN WERDEN GELIEFERT "WIE SIE SIND" OHNE GARANTIE JEGLICHER ART. ZUM MAXIMALEN GESETZLICH ERLAUBTEN UMFANG, WEIST DER HERSTELLER ALLE GARANTIEN, SEIEN SIE AUSDRÜCKLICH ODER STILLSCHWEIGEND, INKLUSIVE, ABER NICHT LIMITIERT, ZUSICHERUNG ALLGEMEINER GEBRAUCHSTAUGLICHKEIT, TAUGLICHKEIT FÜR EINEN BESTIMMTEN ZWECK UND RECHTSVERLETZUNG VON SICH. DER KUNDE AKTZEPTIERT, DASS DIE NUTZUNG DER SOFTWARE UND IHRE LEISTUNG, SOWIE DOKUMENTATIONEN AUSSCHLIEßLICH AUF EIGENES RISIKO ERFOLGT. FÜR SCHÄDEN, DIE AUS DEM GEBRAUCH DIESER SOFTWARE RESULTIEREN, WIE Z.B. DATENVERLUST, ENTGEGANGENEM GEWINN, BETRIEBSUNTERBRECHUNG, VERLUST VON GESCHÄFTLICHEN INFORMATIONEN ODER ANDERE FINANZIELLE VERLUSTE, UNGEACHTET DEREN VORHERSEHBARKEIT, ÜBERNIMMT DIE FIRMA POLARSOFT KEINE HAFTUNG. DIE NUTZUNG ERFOLGT AUSSCHLIEßLICH AUF EIGENES RISIKO. DIE SOFTWARE WIRD SO LIZENSIERT "WIE SIE IST". DAS EINZIGE IHNEN ZUKOMMENDE RECHTSMITTEL IST DIE ERSTATTUNG DES KAUFPREISES (MAXIMALE HAFTUNG). ANSPRÜCHE AUF GESETZLICH UNABDINGBARE VORSCHRIFTEN ZUR PRODUKTHAFTUNG BLEIBEN UNBERÜHRT. 
+
+WEIL EINIGE STAATEN/GERICHTSBARKEITEN DEN AUSSCHLUSS ODER DIE LIMITIERUNG DER HAFTUNG FÜR FOLGE- ODER BEILÄUFIG ENTSTANDENE SCHÄDEN NICHT ERLAUBEN, TREFFEN DIE OBEN GENANNTEN REGELUNGEN AUF DIESE NUTZER NICHT ZU.
+
+6. GERICHTSSTAND
+
+Auf die vorliegende Lizenzvereinbarung finden ausschließlich deutsches Recht und internationale Verträge Anwendung. Gerichtsstand für Streitigkeiten aus diesem Lizenzvertrag ist Sinsheim, Elsenz. Diese Lizenz beruht auf den Gesetzen der Bundesrepublik Deutschland. Wird ein Teil dieser Lizenz durch ein Gericht mit kompetenter Rechtssprechung für gesetzeswidrig erklärt, bleibt der betreffende Teil der Lizenz bis zum erlaubten Grad rechtsgültig. Die verbleibenden Teile dieser Lizenz behalten ihre vollständige Gültigkeit bei.
+
+Februar 2011, Thilo Brandt, Softwareentwickler
+http://www.thilo-brandt.de
+
+#################################################
+ENGLISH VERSION:
+#################################################
+
+SOFTWARE LICENSE AGREEMENT *FREEWARE*
+
+YOU MUST AGREE TO THIS LICENSE BEFORE USING THE SOFTWARE!
+
+1. GENERAL
+
+This Software License Agreement (hereinafter this Agreement) is a legal agreement between you i.e., the end user or customer (either an individual or a legal entity) and Thilo Brandt (hereinafter "author"). The copyright of this software (hereinafter the Software) and its associated documentation (including any files, images, text incorporated into the Software) as well as any accompanying written materials is owned by Thilo Brandt (the Owner), located at Lindenweg 12, 74918 Angelbachtal, Germany, and is protected by German copyright laws and international treaties. 
+
+By installing, copying, downloading or otherwise using this software, you agree with the Owner to be bound by the terms and conditions of this Agreement, which will govern your use of the Software. You also agree then to the author standard business conditions. If you do not agree to this Agreement, do not install or use this Software.
+
+Customers should carefully read the following terms and conditions before using the Software.
+
+2. LICENSE 
+
+The author grants, and the customer accepts, a nontransferable and nonexclusive license to use the Software on the following terms and conditions:
+
+You are permitted to pass copies of the software.
+
+You may copy the software how often you want.
+
+You are not permitted to:
+
+a) Selling the software on any medium or over an paid internet service without written permission from the author. We apologize that you ask for a permission in any case you want to present the software on a public Internetsite or any other medium.
+
+b) rent, lease, sub-license, loan, modify, alter, adapt, merge, translate, reverse engineer, decompile, or re-package the software into another product, or to disassemble it or create derivative works, based on the whole, or any part, of the software or its associated documentation.
+
+3. TERM 
+
+This Agreement is effective until you terminate it by destroying the Software and its documentation, together with all copies. This agreement will also terminate if you fail to abide by its terms. Upon termination, you agree to destroy all copies of the Software, and its documentation, including any Software stored on the hard disk of any server/computer under your control. 
+
+4. OWNERSHIP 
+
+The Software is licensed to you. You do not own it. The Owner shall at all times retain ownership of the Software as well as all subsequent copies thereof, regardless of form or storage medium. The owner also retains the title, and all proprietary rights to the Software, including, but not limited to, all patent, copyright, trade secret, service marks, registered service marks, trademark or registered trademark rights.
+
+5. DISCLAIMER OF WARRANTY 
+
+THE OWNER DOES NOT GUARANTEE THE FOLLOWING: THAT THE SOFTWARE WILL BE FREE FROM BUGS, ERRORS, OR OMISSIONS, THAT IT WILL PERFORM WITHOUT INTERRUPTION, THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED, OR THAT NEW RELEASES AND/OR UPGRADES OF THE SOFTWARE WILL BE PROVIDED. THE SOFTWARE, ANY INFORMATION, CODES, AND/OR EXECUTABLES PROVIDED, IS SUPPLIED AS IS, WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER FURTHER DISCLAIMS ALL WARRANTIES EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE RECIPIENT ACCEPTS ANY AND ALL RISK ASSOCIATED WITH THE USE OR PERFORMANCE OF THE SOFTWARE AND DOCUMENTATION. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, OR INCIDENTAL LOSS OF BUSINESS PROFITS, SPECIAL DAMAGES ARISING FROM THE USE (OR INABILITY TO USE) THE SOFTWARE, OR FROM ERRORS OR DEFICIENCIES IN IT, WHETHER CAUSED BY NEGLIGENCE OR OTHERWISE, EVEN IF THE OWNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL THE OWNER'S LIABILITY EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE. INDISPENSABLE CLAIMS FOR PRODUCT LIABILITY BY LAW REMAIN UNAFFECTED.
+
+BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO RECIPIENT.
+
+6. LAW 
+
+This Agreement shall be governed by German laws and regulations and international treaties. Legal venue shall be Sinsheim Elsenz, Germany. This license based upon laws of the federal republic of Germany. If any part of this license should be declared antinomian by a court with competent jurisprudence the remaining parts keep their validity anyway.
+
+February 2011, Thilo Brandt, Softwareentwickler
+http://www.thilo-brandt.de
